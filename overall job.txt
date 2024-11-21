@@ -1,0 +1,198 @@
+1) Job Description
+
+Job Description
+TCS Hiring for Angular Developer Role!!
+
+Required Information Details
+
+Role- Angular Developer
+Required Technical Skill Set- Angular
+Desired Experience Range 4 -10 Yrs
+Location of Requirement- Pan India
+
+Desired Competencies (Technical/Behavioral Competency)
+Must Have
+1. Strong knowledge and hands-on development experience in Angular 9 & above is a must.
+2. Proficient with web technologies - HTML5, CSS3, JSON and writing cross-browser compatible code
+3. Good understanding of Typescript Dom manipulation technique & RESTful services
+4. Expert in any one of the modern MV-VM/MVC framework
+5. Hands-on experience in implementing Angular applications, directives
+6. Experience on automated unit testing framework E.g. Jasmine, Karma, etc.
+7. Proven experience of working in fully Agile teams/environment
+8. Knowledge of Continuous Integration and Deployment (CI/CD), TDD & BDD
+9. Working knowledge with code versioning tools e.g. git, svn etc.
+
+Desired Candidate Profile
+Qualifications :BACHELOR OF ENGINEERING
+
+
+
+
+
+2) Job Description
+
+Job Description
+Hiring For: React Js, Node JS
+
+HTML5
+CSS3
+Javascript
+React JS
+ES6/ES7
+
+Jest testcases
+React final form
+Node JS
+Agile - Scrum way of working
+
+Desired Candidate Profile
+Qualifications :Undergraduate
+
+
+
+
+3) Job Description
+
+Job Description
+Location: Bangalore, Bhubhaneswar, pune
+
+Job Description:
+
+1. Node Js(as backend development), Vue Js, HTML5, CSS3, Javascript
+
+2. Strong programming skills in JavaScript and Vue JS
+
+3. Familiarity with Vue.Js ecosystem including Vue CLI, Vuex, Vue router
+
+
+Desired Candidate Profile
+Qualifications :BACHELOR OF ENGINEERING
+
+
+
+
+
+4) Job Description
+
+Job Description
+Inviting application for ......Node js Experience - 5 to 10 yrsLocation - PAN India
+
+Required Competencies :
+
+Vue Js, HTML5, CSS3, Javascript, Node Js(as backend development).
+Strong programming skills in JavaScript and Vue JS.
+Familiarity with Vue.Js ecosystem including Vue CLI, Vuex, Vue router.
+Good to have:
+
+Experience in Git.
+Desired Candidate Profile
+Qualifications :BACHELOR OF ENGINEERING
+
+
+5) Job Description
+
+Job Description
+Must Have
+
+
+2-4 years of hands-on experience in development.
+Development experience in
+ETL- Talend
+Strong knowledge Incident, problem, Change management, service management, service request.
+Must have hands on experience code versioning tool GIT/SVN/others
+Experience in handling Job schedulers like Control M , Autosys etc. .
+Desired Candidate Profile
+Qualifications :BACHELOR OF ENGINEERING
+
+
+
+
+6) Job Description
+
+Job Description
+Delegating and directing service tasks, Incidentsand managing the ticket Lifecycle.
+Strong Knowledge in Handling Major IncidentManagement
+Strong Knowledge in deriving a root of issue andability to coordinate with L3 resolver groups on any Major Incident.
+Strong knowledge in Modules like IncidentManagement, Change Management, Problem Management and Escalation Management
+Desired Candidate Profile
+Qualifications :BACHELOR OF ENGINEERING
+
+
+
+7) Job Description
+
+Job Description
+Understanding on Oracle Knowledge Advanced Search Customization
+Familiar with OSVC REST API's Knowledge
+Experience in Configuring Oracle Service cloud
+Familiar on the Oracle Knowledge Advanced
+Expert in PHP , MVC Architecture , JavaScript , iFrame
+
+Desired Candidate Profile
+Qualifications :BACHELOR OF ENGINEERING
+
+
+8) Job Description
+
+Job Description
+TCS Confidential
+
+Dear Candidate,
+
+Greetings from TATA CONSULTANCY SERVICES LIMITED !!!
+
+Exciting # Job Opportunities for # Experienced Professionals
+
+Required Skills# Experience: Java Full Satck Developer
+
+Candidate current location# Anywhere in INDIA
+
+Experience Range# 4-6 years.
+
+Interview Location# Anywhere
+
+Desired Candidate Profile
+Qualifications :BACHELOR OF ENGINEERING
+
+
+
+
+9) Job Description
+
+Job Description
+Greetings from TCS!
+
+
+TCS is hiring for Power BI
+
+
+Desired Experience Range: 5 to 8 years
+
+Job Location: Bangalore
+
+
+Able to convert business requirements into technical specifications and estimate the time needed to develop the reports
+
+Create relationships between data and develop tabular and other multidimensional data models
+
+Create dashboards and interactive visual reports using Power BI
+
+Desired Candidate Profile
+Qualifications :BACHELOR OF ENGINEERING
+
+
+
+10) Job Description
+
+Job Description
+JD:
+
+Design and develop AI models: Craft advanced artificial intelligence models, LLM and algorithms to solve complex problems and enhance system capabilities.
+
+Research and innovation: Stay abreast of the latest advancements in AI technology and apply cutting-edge research to improve existing Al applications or create new ones.
+
+Strategy and Implementation: Contribute to the strategic planning of AI initiatives and oversee the implementation of AI systems within an organization.
+
+Desired Candidate Profile
+Qualifications :Undergraduate
+
